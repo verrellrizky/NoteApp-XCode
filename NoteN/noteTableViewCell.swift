@@ -12,7 +12,7 @@ class noteTableViewCell: UITableViewCell {
     @IBOutlet weak var txtTitle: UILabel!
     @IBOutlet weak var txtNotes: UILabel!
     @IBOutlet weak var txtCategory: UILabel!
-    
+    //celll
 
     override func awakeFromNib() {
         super.awakeFromNib()

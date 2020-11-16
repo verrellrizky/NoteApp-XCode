@@ -26,6 +26,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     var ArrNotes = [Notes]()
     var myIndex = 0
     var varHeader:Int?
+    //
     
     @IBOutlet weak var tvNotes: UITableView!
     
